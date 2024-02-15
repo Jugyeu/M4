@@ -21,3 +21,5 @@
 <br><br>
 <img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="80px">
 </p>
+
+<span style="color:red;">This text is red</span>
