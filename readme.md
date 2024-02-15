@@ -12,16 +12,17 @@
 
 **Použité programy**
 
-> VSCode
-> Git
-> Markdown editor
+> VSCode  
+> Git  
+> Markdown editor  
 
-<div class="text">*Střední průmyslová škola elektrotechinky a informatiky*
+<div class="text">Střední průmyslová škola elektrotechinky a informatiky
 <br><br>
 <img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="80px">
 </div>
 <style>
     .text{
+        font-family: cursive;
         text-align: center;
     }
 </style>
