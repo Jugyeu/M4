@@ -22,4 +22,6 @@
 <img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="80px">
 </p>
 
-<span style="color:red;">This text is red</span>
+<span style="color:red;">This text is red</span>  
+<span style="color:#00ff00;">This text is green</span>  
+<span style="color:rgb(255, 0, 255);">This text is purple</span>
