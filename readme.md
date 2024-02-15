@@ -23,3 +23,5 @@
 </p>
 
 <p style="color:red;">This text is red</p>  
+[This text is green](#) {: style="color: green"}
+
