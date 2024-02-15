@@ -12,9 +12,9 @@
 
 **Použité programy**
 
-> VSCode  
-> Git  
-> Markdown editor  
+> VSCode
+> Git
+> Markdown editor
 
 <center> gwegwgwgwgwe </center>
 
@@ -26,5 +26,6 @@
     .text{
         font-family: cursive;
         text-align: center;
+        color: red;
     }
 </style>
